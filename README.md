@@ -132,11 +132,10 @@ flutter run -d chrome
 
 ### Ảnh chụp màn hình
 
-Thêm ảnh chụp sau khi chạy app vào thư mục `screenshots/`:
 
-| Bật khung bố cục | Tắt khung bố cục | Đổi căn chỉnh |
-|---|---|---|
-| ![Bật khung](screenshots/khung-bat.png) | ![Tắt khung](screenshots/khung-tat.png) | ![Căn chỉnh](screenshots/can-chinh.png) |
+| Bật khung bố cục | Tắt khung bố cục | 
+|---|---|
+| ![Bật khung](screenshots/khung-bat.png) | ![Tắt khung](screenshots/khung-tat.png) |
 
 ### Điều rút ra
 
